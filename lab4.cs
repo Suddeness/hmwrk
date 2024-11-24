@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace lb3
 {
-    class Program
+    class lab4
     {
         static void Main(string[] args)
         {
